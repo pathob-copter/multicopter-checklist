@@ -14,9 +14,9 @@ A list of actions that have to be performed before a multicopter flight
 
 # My Modes
 
-- Pos 1 (Hinten, Hinten): Horizon Mode, ca. 1175
-- Pos 2 (Hinten, Mitte): MODE, ca. 1300
-- Pos 3 (Hinten, Vorne): MODE, ca. 1425
-- Pos 4 (Vorne, Hinten): MODE, ca. 1550
-- Pos 5 (Vorne, Mitte): MODE, ca. 1700
-- Pos 6 (Vorne, Vorne): MODE, ca. 1825
+- Pos 1 (Hinten, Hinten): Horizon, ca. 1175
+- Pos 2 (Hinten, Mitte): Horizon + Baro, ca. 1300
+- Pos 3 (Hinten, Vorne): GPS Hold + Horizon + Baro, ca. 1425
+- Pos 4 (Vorne, Hinten): Headfree + Horizon, ca. 1550
+- Pos 5 (Vorne, Mitte): Headfree + Horizon + Baro, ca. 1700
+- Pos 6 (Vorne, Vorne): GPS RTH + Horizon + Baro, ca. 1825
